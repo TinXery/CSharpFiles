@@ -1,7 +1,8 @@
-﻿Random dice = new Random();
-int roll = dice.Next(1, 7);
-Console.WriteLine("" + roll);
+﻿Random dice = new();
+int roll1 = dice.Next();
+int roll2 = dice.Next(101);
+int roll3 = dice.Next(05, 101);
 
-Random diceTwo = new();
-int rollTwo = diceTwo.Next(1,21);
-Console.WriteLine("" + rollTwo);
+Console.WriteLine("" + roll1);
+Console.WriteLine("" + roll2);
+Console.WriteLine("" + roll3);

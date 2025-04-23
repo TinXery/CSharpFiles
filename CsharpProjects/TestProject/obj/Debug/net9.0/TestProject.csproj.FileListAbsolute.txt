@@ -12,3 +12,4 @@ C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\TestProject\obj\Debug
 C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.pdb
 C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
 C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\TestProject\obj\Debug\net9.0\ref\TestProject.dll
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.sourcelink.json
