@@ -1,0 +1,15 @@
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\ArraysAndForeach\obj\Debug\net9.0\ArraysAndForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\ArraysAndForeach\obj\Debug\net9.0\ArraysAndForeach.AssemblyInfoInputs.cache
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\ArraysAndForeach\obj\Debug\net9.0\ArraysAndForeach.AssemblyInfo.cs
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\ArraysAndForeach\obj\Debug\net9.0\ArraysAndForeach.csproj.CoreCompileInputs.cache
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\ArraysAndForeach\obj\Debug\net9.0\ArraysAndForeach.sourcelink.json
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\ArraysAndForeach\bin\Debug\net9.0\ArraysAndForeach.exe
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\ArraysAndForeach\bin\Debug\net9.0\ArraysAndForeach.deps.json
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\ArraysAndForeach\bin\Debug\net9.0\ArraysAndForeach.runtimeconfig.json
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\ArraysAndForeach\bin\Debug\net9.0\ArraysAndForeach.dll
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\ArraysAndForeach\bin\Debug\net9.0\ArraysAndForeach.pdb
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\ArraysAndForeach\obj\Debug\net9.0\ArraysAndForeach.dll
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\ArraysAndForeach\obj\Debug\net9.0\refint\ArraysAndForeach.dll
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\ArraysAndForeach\obj\Debug\net9.0\ArraysAndForeach.pdb
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\ArraysAndForeach\obj\Debug\net9.0\ArraysAndForeach.genruntimeconfig.cache
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\ArraysAndForeach\obj\Debug\net9.0\ref\ArraysAndForeach.dll

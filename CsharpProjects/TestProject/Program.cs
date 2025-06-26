@@ -1,7 +1,7 @@
-﻿Random dice = new Random();
-int roll = dice.Next(1, 7);
-Console.WriteLine("" + roll);
+﻿int firstValue = 500;
+int secondValue = 600;
+int largerValue = Math.Max(firstValue, secondValue);
 
-Random diceTwo = new();
-int rollTwo = diceTwo.Next(1,21);
-Console.WriteLine("" + rollTwo);
+
+
+Console.WriteLine("The larger value is: " + largerValue);

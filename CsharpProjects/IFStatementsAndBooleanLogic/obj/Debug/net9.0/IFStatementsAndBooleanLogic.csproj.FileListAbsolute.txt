@@ -1,0 +1,15 @@
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\IFStatementsAndBooleanLogic\bin\Debug\net9.0\IFStatementsAndBooleanLogic.exe
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\IFStatementsAndBooleanLogic\bin\Debug\net9.0\IFStatementsAndBooleanLogic.deps.json
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\IFStatementsAndBooleanLogic\bin\Debug\net9.0\IFStatementsAndBooleanLogic.runtimeconfig.json
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\IFStatementsAndBooleanLogic\bin\Debug\net9.0\IFStatementsAndBooleanLogic.dll
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\IFStatementsAndBooleanLogic\bin\Debug\net9.0\IFStatementsAndBooleanLogic.pdb
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\IFStatementsAndBooleanLogic\obj\Debug\net9.0\IFStatementsAndBooleanLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\IFStatementsAndBooleanLogic\obj\Debug\net9.0\IFStatementsAndBooleanLogic.AssemblyInfoInputs.cache
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\IFStatementsAndBooleanLogic\obj\Debug\net9.0\IFStatementsAndBooleanLogic.AssemblyInfo.cs
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\IFStatementsAndBooleanLogic\obj\Debug\net9.0\IFStatementsAndBooleanLogic.csproj.CoreCompileInputs.cache
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\IFStatementsAndBooleanLogic\obj\Debug\net9.0\IFStatementsAndBooleanLogic.sourcelink.json
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\IFStatementsAndBooleanLogic\obj\Debug\net9.0\IFStatementsAndBooleanLogic.dll
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\IFStatementsAndBooleanLogic\obj\Debug\net9.0\refint\IFStatementsAndBooleanLogic.dll
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\IFStatementsAndBooleanLogic\obj\Debug\net9.0\IFStatementsAndBooleanLogic.pdb
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\IFStatementsAndBooleanLogic\obj\Debug\net9.0\IFStatementsAndBooleanLogic.genruntimeconfig.cache
+C:\Users\TinXe\Documents\GitHub\CSharpFiles\CsharpProjects\IFStatementsAndBooleanLogic\obj\Debug\net9.0\ref\IFStatementsAndBooleanLogic.dll
