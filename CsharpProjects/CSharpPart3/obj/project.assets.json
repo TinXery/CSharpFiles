@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TinXe\\Documents\\GitHub\\CSharpFiles\\CsharpProjects\\TestProject\\TestProject.csproj",
-      "projectName": "TestProject",
-      "projectPath": "C:\\Users\\TinXe\\Documents\\GitHub\\CSharpFiles\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\TinXe\\Documents\\GitHub\\CSharpFiles\\CsharpProjects\\CSharpPart3\\CSharpPart3.csproj",
+      "projectName": "CSharpPart3",
+      "projectPath": "C:\\Users\\TinXe\\Documents\\GitHub\\CSharpFiles\\CsharpProjects\\CSharpPart3\\CSharpPart3.csproj",
       "packagesPath": "C:\\Users\\TinXe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TinXe\\Documents\\GitHub\\CSharpFiles\\CsharpProjects\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\TinXe\\Documents\\GitHub\\CSharpFiles\\CsharpProjects\\CSharpPart3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TinXe\\AppData\\Roaming\\NuGet\\NuGet.Config"
