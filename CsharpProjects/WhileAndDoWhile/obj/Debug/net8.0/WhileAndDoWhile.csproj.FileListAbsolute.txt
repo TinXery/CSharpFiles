@@ -1,0 +1,15 @@
+/workspaces/CSharpFiles/CsharpProjects/WhileAndDoWhile/bin/Debug/net8.0/WhileAndDoWhile
+/workspaces/CSharpFiles/CsharpProjects/WhileAndDoWhile/bin/Debug/net8.0/WhileAndDoWhile.deps.json
+/workspaces/CSharpFiles/CsharpProjects/WhileAndDoWhile/bin/Debug/net8.0/WhileAndDoWhile.runtimeconfig.json
+/workspaces/CSharpFiles/CsharpProjects/WhileAndDoWhile/bin/Debug/net8.0/WhileAndDoWhile.dll
+/workspaces/CSharpFiles/CsharpProjects/WhileAndDoWhile/bin/Debug/net8.0/WhileAndDoWhile.pdb
+/workspaces/CSharpFiles/CsharpProjects/WhileAndDoWhile/obj/Debug/net8.0/WhileAndDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharpFiles/CsharpProjects/WhileAndDoWhile/obj/Debug/net8.0/WhileAndDoWhile.AssemblyInfoInputs.cache
+/workspaces/CSharpFiles/CsharpProjects/WhileAndDoWhile/obj/Debug/net8.0/WhileAndDoWhile.AssemblyInfo.cs
+/workspaces/CSharpFiles/CsharpProjects/WhileAndDoWhile/obj/Debug/net8.0/WhileAndDoWhile.csproj.CoreCompileInputs.cache
+/workspaces/CSharpFiles/CsharpProjects/WhileAndDoWhile/obj/Debug/net8.0/WhileAndDoWhile.sourcelink.json
+/workspaces/CSharpFiles/CsharpProjects/WhileAndDoWhile/obj/Debug/net8.0/WhileAndDoWhile.dll
+/workspaces/CSharpFiles/CsharpProjects/WhileAndDoWhile/obj/Debug/net8.0/refint/WhileAndDoWhile.dll
+/workspaces/CSharpFiles/CsharpProjects/WhileAndDoWhile/obj/Debug/net8.0/WhileAndDoWhile.pdb
+/workspaces/CSharpFiles/CsharpProjects/WhileAndDoWhile/obj/Debug/net8.0/WhileAndDoWhile.genruntimeconfig.cache
+/workspaces/CSharpFiles/CsharpProjects/WhileAndDoWhile/obj/Debug/net8.0/ref/WhileAndDoWhile.dll
