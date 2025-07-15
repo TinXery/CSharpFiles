@@ -1,7 +1,4 @@
-﻿int firstValue = 500;
-int secondValue = 600;
-int largerValue = Math.Max(firstValue, secondValue);
-
-
-
-Console.WriteLine("The larger value is: " + largerValue);
+﻿for (int i = 0; i < 10; i++)
+{
+    Console.WriteLine($"{i}");
+}
