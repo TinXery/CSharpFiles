@@ -49,7 +49,7 @@ System.Console.WriteLine($"Your input value ({userInput}) has been accepted."); 
 
 // CODE PROJECT 3
 
-/* string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
+string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
 int stringCount = myStrings.Length;
 
 string myString = "";
@@ -82,4 +82,4 @@ for (int i = 0; i < stringCount; i++)
 
     mySentence = myString.Trim();
     System.Console.WriteLine(mySentence);
-} */
+}
